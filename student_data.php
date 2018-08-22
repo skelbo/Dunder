@@ -22,7 +22,8 @@ $student_inventory = [
 	4.99,
 	"Southend",
 	0,
-	5 );'
+	5 );',
+	
 ];
 
 # The above adds two hypothetical books to your database. You need to changeojijij
