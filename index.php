@@ -2,20 +2,24 @@
 <html>
  <head>
   <meta charset="UTF-8" />
-  </title>Site/Tab Title</title>
-  <link rel="stylesheet" href="DzikStyle.css" type="text/css" />  
+  </title>DM</title>
+  <link rel="stylesheet" href="Dunder.css" type="text/css" />  
 </head>
 <body>
+<h1>Dunder Mifflin</h1>
+ <h2>Cheapest way to shop online</h2>
+ <p>Purchase your favourite entertainment products at unbeatable prices.<br />Browse our selection of top books, games, music and DVDs.</p>
   <div class="bg">
   <ul>
      <li><a href="Index.php">Home</a></li>
 	 <li><a href="Books.php">Books</a></li>
 	 <li><a href="Games.php">Games</a></li>
+	 <li><a href="Music.php">Music</a></li>
+	 <li><a href="dvds.php">DVDs</a></li>
+	 <li><a href="Managerlogin.php">Manager login</a></li>
+	 <li><a href="Login.php">Login</a></li>
+	 <li><a href="reset.php">Reset DBase</a></li>
   </ul>
-  </div>
- <h1>Dunder Mifflin</h1>
- <h2>Online shopping</h2>
- <p>Dunder Mifflin badsjdaskdha description</p><br />
- <p>dsudhdsfdshfdskjfhsdkjfhsdfsdjkfhdsfjdsk<br />esofusdiofhdsfjsdjlkfdsfsdfsfs</p>
+  </div> 
 </body>
 </html>

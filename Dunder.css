@@ -11,4 +11,14 @@ body {
     text-decoration: none;
     color: #ffffff;    
 }
-h1 {color: navy; font-family: Arial;}
+h1 {color: #ffccff; font-family: Georgia;}
+h2 {color: white; font-size: 10;}
+home.menu{
+	float:right;
+	text-align: center;
+	color: #000000;
+}
+books.menu{
+	float:bottom;
+	padding-left: 50px'
+}
