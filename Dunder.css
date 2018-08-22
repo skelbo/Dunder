@@ -1,0 +1,13 @@
+body {
+    background-color: #3d5377;
+}
+.menu{
+	float:right;
+    text-align: center;
+    width: 80px;
+	padding: 6px;
+    height:30px;
+    background-color: #4b6fa8;
+    text-decoration: none;
+    color: #ffffff;    
+}
