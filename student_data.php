@@ -19,6 +19,12 @@ $student_inventory = [
 	"JK Rowling",
 	"aa01-006.jpg",
 	1001,
+<<<<<<< HEAD
+	4.99,
+	"Southend",
+	0,
+	5 );',
+=======
 	14.80,
 	"Colchester",
 	51,
@@ -89,6 +95,7 @@ $student_inventory = [
 	"Colchester",
 	16,
 	44 );'
+>>>>>>> 3ced134c69fb187935aab3bb7c92d6d12d79458f
 	
 ];
 
